@@ -5,7 +5,7 @@ Copyright (C) 2017 -until todayThe BTDX Core Developers
 BTDX Core integration/staging repository
 =====================================
 
-[![Build Status](https://travis-ci.org/BTDX-Project/BTDX.svg?branch=master)](https://travis-ci.org/BTDX-Project/BTDX) [![GitHub version](https://badge.fury.io/gh/BTDX-Project%2FBTDX.svg)](https://badge.fury.io/gh/BTDX-Project%2FBTDX)
+[![Build Status](https://travis-ci.org/ConsulTent/Bitcloud.svg?branch=master)](https://travis-ci.org/ConsulTent/Bitcloud) [![GitHub version](https://badge.fury.io/gh/Consultent%2FBitcloud.svg)](https://badge.fury.io/gh/Consultent%2FBitcloud)
 
 BTDX is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
 - Anonymized transactions using coin mixing technology, we call it _Darksend_.
